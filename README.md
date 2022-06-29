@@ -10,7 +10,7 @@ I started my coding journey in 2020 when I started doing my degree in Software E
 *   🖥️  See my portfolio at [here](http://rashmi-wijesekara.github.io/portfolio/)
 *   ✉️  You can contact me at [rashmiwijesekara1999@gmail.com](mailto:rashmiwijesekara1999@gmail.com)
 *   😄  Pronouns: She/ Her
-*   🧠  Currently I'm learning ML (machine learning)
+*   🧠  Currently I'm learning MERN stack
 *   🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.twitter.com/Rashmi_W_" target="_blank" rel="noreferrer"><img
