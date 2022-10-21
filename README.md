@@ -16,7 +16,7 @@ I started my coding journey in 2020 when I started doing my degree in Software E
 
 *   🌍  I'm based in Colombo, Sri Lanka
 
-*   🖥️  See my portfolio at [here](http://rashmi-wijesekara.github.io/portfolio/)
+*   🖥️  See my portfolio at [https://rashmi-wijesekara.vercel.app/](https://rashmi-wijesekara.vercel.app/)
 
 *   ✉️  You can contact me at [rashmiwijesekara1999@gmail.com](mailto:rashmiwijesekara1999@gmail.com)
 
