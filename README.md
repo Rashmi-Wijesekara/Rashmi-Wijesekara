@@ -22,7 +22,7 @@ I started my coding journey in 2020 when I started doing my degree in Software E
 
 *   😄  Pronouns: She/ Her
 
-*   🧠  Currently I'm learning electron.js
+*   🧠  Currently I'm learning .NET
 
 *   🤝  I'm open to collaborate on interesting projects
 
@@ -71,6 +71,7 @@ I started my coding journey in 2020 when I started doing my degree in Software E
 
 ## 🚀 Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -95,6 +96,7 @@ I started my coding journey in 2020 when I started doing my degree in Software E
 
 ## ⚡ Database:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MS SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
