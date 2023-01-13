@@ -128,9 +128,9 @@ I started my coding journey in 2020 when I started doing my degree in Software E
 <br>
 
 # My Github Stats
-<a href="http://www.github.com/Rashmi-Wijesekara"><img src="https://github-readme-stats.vercel.app/api?username=Rashmi-Wijesekara&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rashmi-Wijesekara's GitHub stats" /></a>
+<a href="http://www.github.com/Rashmi-Wijesekara"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rashmi-Wijesekara&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rashmi-Wijesekara's GitHub stats" /></a>
 <a href="http://www.github.com/Rashmi-Wijesekara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashmi-Wijesekara&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/Rashmi-Wijesekara" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmi-Wijesekara&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Rashmi-Wijesekara" align="left"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rashmi-Wijesekara&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rashmi-Wijesekara&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
