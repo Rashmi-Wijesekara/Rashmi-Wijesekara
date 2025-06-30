@@ -1,7 +1,7 @@
 Hi 👋 I'm Rashmi Wijesekara
 ==================================
 
-Software Engineering Undergraduate
+Software Engineer
 ----------------------------------
 
 <div align="center">
@@ -21,9 +21,9 @@ I started my coding journey in 2020 when I started doing my degree in Software E
 *   ✉️  You can contact me at [rashmiwijesekara1999@gmail.com](mailto:rashmiwijesekara1999@gmail.com)
 
 *   😄  Pronouns: She/ Her
-
+<!--
 *   🧠  Currently I'm learning .NET
-
+-->
 *   🤝  I'm open to collaborate on interesting projects
 
 *   ❓   Ask me about anything related to Web Development
